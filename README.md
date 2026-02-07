@@ -1,4 +1,11 @@
-## Hi there 👋
+ ##Hey there 👋
+
+I'm Nayuu, a student of Java based Brazil
+
+I study programming and linux whatenever i can
+
+User of NixOS linux
+Study Java at Alura
 
 <!--
 **nayuu-prtype/nayuu-prtype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
