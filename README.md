@@ -5,6 +5,7 @@ I'm Nayuu, a student of Java based Brazil
 I study programming and linux whatenever i can
 
 User of NixOS linux
+and
 Study Java at Alura
 
 <!--
