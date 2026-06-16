@@ -1,12 +1,12 @@
  ## Hey there 👋
 
-I'm Nayuu, a student of Java based Brazil
+I'm Nayuu, a student of Rust based Brazil
 
 I study programming and linux whatenever i can
 
 User of NixOS linux
 and
-Study Java at Alura
+Study Rust with Rust book and Alura
 
 <!--
 **nayuu-prtype/nayuu-prtype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
