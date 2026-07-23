@@ -7,7 +7,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://github-stats-extended.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=nayuu-prtype" height="200" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=nayuu-prtype" height="200" width="566" alt="stats graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nayuu-prtype&langs_count=6&theme=tokyonight&hide_border=false&hide_title=false" height="200" alt="languages graph"  />
 </div>
 
