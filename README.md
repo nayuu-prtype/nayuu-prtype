@@ -46,10 +46,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/nayuu-prtype/nayuu-prtype/snake-output/snake.svg" alt="Snake animation" />
