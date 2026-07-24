@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/nayuu-prtype/nayuu-prtype/snake-output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/nayuu-prtype/nayuu-prtype/blob/output/github-contribution-grid-snake2.svg)
 
 ###
