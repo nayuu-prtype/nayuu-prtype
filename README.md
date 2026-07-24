@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/nayuu-prtype/nayuu-prtype/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake2.svg)
 
 ###
